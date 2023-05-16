@@ -29,6 +29,6 @@ html[dir=rtl] ul{padding-right:0}
 .fxg-bs--modal-body{padding:0}
 .fxg-bs--gridtext{color:#333 100%;opacity:100%;font-size:10px;font-family:Roboto-Bold;font-weight:bold;line-height:11px(1.1);text-align:center}
 .fxg-bs-list{color:#333 100%;opacity:100;font-size:12px;font-family:Roboto;line-height:15px;list-style:none;text-align:center}
-html[dir=ltr] ul{padding-left:0}
+html[dir=ltr] ul{padding-left:revert}
 html[dir=rtl] ul{padding-right:0}
 }
